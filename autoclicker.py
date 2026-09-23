@@ -15,6 +15,8 @@
 # meta pic: https://envs.sh/HJv.webp
 # ---------------------------------------------------------------------------------
 
+# трахнуть
+
 from telethon import events
 from .. import loader, utils
 import asyncio
